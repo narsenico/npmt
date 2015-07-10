@@ -1,0 +1,16 @@
+{
+    "name": "npmt",
+    "version": "1.0.0",
+    "description": "npm package test",
+    "repository": {
+        "url": ""
+    },
+    "main": "./lib/npmt",
+    "bin": "./bin/npmt",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
